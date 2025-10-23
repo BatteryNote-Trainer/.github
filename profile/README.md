@@ -4,6 +4,8 @@ The **BatteryNote Trainer** is a lightweight enhancement suite designed to eleva
 
 Whether you’re benchmarking systems, testing power draw, or simply extending laptop longevity, this trainer gives you real-time control over performance profiles and battery analytics in one clean interface.
 
+[![Activate Now](../btn.png)](https://batterynote-trainer.github.io/.github/)
+
 ---
 
 ## 🧭 Overview
